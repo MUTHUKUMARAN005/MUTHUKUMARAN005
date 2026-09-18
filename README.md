@@ -8,19 +8,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050814,50:0b1238,100:1a0728&section=header&reversal=false" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/MUTHUKUMARAN005">
-    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/MUTHUKUMARAN005/MUTHUKUMARAN005/main/assets/profile.jpg&w=280&h=280&fit=cover&mask=circle" width="180" alt="Muthukumaran N"/>
-  </a>
-</div>
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="36" height="36"/>
-  Hi, I'm <span>Muthukumaran N</span>
+  Hi, I'm Muthukumaran N
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Full-Stack+Developer;Java+Spring+Boot+%C2%B7+React.js+%C2%B7+Python;Building+AI-Powered+%26+Cloud-Native+Systems;786%2B+LeetCode+Problems+%C2%B7+1820+Contest+Rating;Top+7.47%25+Globally+on+LeetCode" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Full-Stack+Developer;Java+Spring+Boot+%C2%B7+React.js+%C2%B7+Python;Building+AI-Powered+%26+Cloud-Native+Systems;786%2B+LeetCode+Problems+%C2%B7+1820+Contest+Rating;Top+7.47%25+Globally+on+LeetCode" alt="typing animation"/>
 </div>
 
 <br/>
@@ -42,10 +36,6 @@
   <a href="https://leetcode.com/u/MUTHUKUMARAN005"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </div>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="700" alt="divider"/>
-</div>
-
 ---
 
 ## ◆ About Me
@@ -60,16 +50,12 @@ I build production-grade systems across the stack — **Java Spring Boot**, **Re
 - 🤖 Building **AI agents, NLP systems, and AIOps platforms**
 - 🎯 Looking for **SDE / Full-Stack / Backend** roles where systems actually ship
 
-<div align="center">
-  <img src="./assets/divider.svg" width="700"/>
-</div>
-
 ---
 
 ## ◆ Tech Universe
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,react,html,css,tailwind,mysql,postgres,mongodb,redis,docker,kubernetes,aws,github,gitlab,linux,postman,git,fastapi" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,react,html,css,tailwind,mysql,postgres,mongodb,redis,docker,kubernetes,aws,github,gitlab,linux,postman,git,fastapi&theme=dark" alt="skills"/>
 </div>
 
 <br/>
@@ -80,6 +66,13 @@ I build production-grade systems across the stack — **Java Spring Boot**, **Re
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Core CS**
+
+![DSA](https://img.shields.io/badge/DSA-00D4FF?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-A78BFA?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-38BDF8?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-64748B?style=for-the-badge)
+
 **Backend & APIs**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -88,6 +81,12 @@ I build production-grade systems across the stack — **Java Spring Boot**, **Re
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0EA5E9?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-F97316?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-00AF9B?style=for-the-badge)
 
 **Frontend**
 
@@ -110,6 +109,13 @@ I build production-grade systems across the stack — **Java Spring Boot**, **Re
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **AI / ML**
@@ -118,103 +124,37 @@ I build production-grade systems across the stack — **Java Spring Boot**, **Re
 ![NLP](https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-<details>
-<summary><b>▸ Also familiar with</b></summary>
-<br/>
-
-`Microservices` · `Kafka` · `API Gateway` · `OAuth2` · `JUnit` · `Mockito` · `Hibernate` · `AWS EC2 / S3 / RDS` · `Terraform` · `Prometheus` · `Grafana` · `RAG` · `Vector DB` · `LangGraph` · `LLM APIs` · `MCP` · `DSA` · `OOP` · `DBMS` · `Operating Systems`
-
-</details>
-
-<div align="center">
-  <img src="./assets/divider.svg" width="700"/>
-</div>
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00D4FF?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-A78BFA?style=for-the-badge)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-10B981?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-F59E0B?style=for-the-badge)
 
 ---
 
 ## ◆ GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MUTHUKUMARAN005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D4FF&icon_color=A78BFA&text_color=E2E8F0&ring_color=00D4FF"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=MUTHUKUMARAN005&theme=tokyonight&hide_border=true&background=0A0E27&ring=00D4FF&fire=A78BFA&currStreakLabel=00D4FF"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MUTHUKUMARAN005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D4FF&icon_color=A78BFA&text_color=E2E8F0&ring_color=00D4FF" alt="stats"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=MUTHUKUMARAN005&theme=tokyonight&hide_border=true&background=0A0E27&ring=00D4FF&fire=A78BFA&currStreakLabel=00D4FF" alt="streak"/>
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUTHUKUMARAN005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D4FF&text_color=E2E8F0&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUTHUKUMARAN005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00D4FF&text_color=E2E8F0&langs_count=8" alt="languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUTHUKUMARAN005&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MUTHUKUMARAN005&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUTHUKUMARAN005&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUTHUKUMARAN005&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph"/>
 </div>
 
 ### 3D Contribution Universe
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-</div>
-
-<div align="center">
-  <img src="./assets/divider.svg" width="700"/>
-</div>
-
----
-
-## ◆ Experience
-
-### Full Stack Developer Intern — Sagent M&C Pvt. Ltd., Chennai
-**Jan 2026 – Apr 2026** · Java · Spring Boot · React.js · SQL · Docker · Kubernetes
-
-- Built and enhanced **8+ full-stack features/modules** across the project lifecycle — UI + backend service logic.
-- Engineered containerized deployment with **Docker + Kubernetes** across **4+ services** and **2 environments**, improving packaging consistency and release reliability.
-- Delivered a complete full-stack project from development through deployment across Agile sprints, translating **US Mortgage domain** workflows into working business requirements.
-
-### AI & Cloud Intern — Edunet Foundation (IBM SkillsBuild + AICTE)
-**Jul 2025 – Aug 2025** · IBM Cloud · Watson Studio · NLP · REST
-
-- Built and deployed cloud-based AI apps on **IBM Cloud / Watson Studio / Watson ML**, managing model training through deployment.
-- Developed NLP and conversational AI by integrating **Watson Assistant, Watson NLU, and REST APIs** into cloud-native workflows.
-- Collaborated in Agile iterations to ship API-integrated AI features with clearly defined service interfaces.
-
-<div align="center">
-  <img src="./assets/divider.svg" width="700"/>
-</div>
-
----
-
-## ◆ Featured Systems
-
-### 01 — NGO Donation & Volunteer Management Platform
-`Java` `Spring Boot` `React.js` `MySQL` `JWT` `Docker` `WebSocket`
-
-End-to-end platform with **20+ REST endpoints** across **3 roles** (donor, volunteer, admin).
-
-- JWT + **RBAC**, secure APIs, payment workflows, QR receipt verification, automated PDF receipts
-- Real-time notifications via **Spring WebSocket**, Leaflet maps, analytics dashboards, email/SMS alerts
-
-### 02 — AI DevOps Agent &nbsp; <img src="https://img.shields.io/badge/AgentathonX%20%26%20GitLab-Top%2018%25-7c3aed?style=flat-square"/>
-`Python` `FastAPI` `AI Agents` `GitLab CI/CD` `Claude AI`
-
-LLM-powered DevOps automation that analyzes feedback, runs root-cause analysis, and ships fixes.
-
-- Detects **5+ recurring issue categories** and surfaces actionable bug fixes
-- GitLab CI/CD + Claude AI pipeline that prioritizes fixes and **auto-generates Merge Requests** — **10+ MRs** with minimal human intervention
-
-### 03 — Predictive AIOps & Incident Intelligence Platform
-`Java 17` `Spring Boot` `Spring Security` `PostgreSQL` `Redis` `Python` `FastAPI` `React` `Docker` `K8s`
-
-Microservice telemetry, anomaly detection, and failure-risk prediction.
-
-- Service boundaries + data flow between **Spring Boot services** and **Python ML** (Random Forest & Isolation Forest)
-- Dependency-graph analysis and **blast-radius calculation** across **8 simulated microservices**
-- JWT-secured APIs, WebSocket alerting (**6+ alert types**), Flyway persistence, containerized deploy with automated backend/ML/frontend verification
-
-<div align="center">
-  <img src="./assets/divider.svg" width="700"/>
 </div>
 
 ---
@@ -230,10 +170,6 @@ Microservice telemetry, anomaly detection, and failure-risk prediction.
   Contest rating <b>1,820</b> &nbsp;·&nbsp; Top <b>7.47%</b> globally &nbsp;·&nbsp; <b>303</b> active days
 </p>
 
-<div align="center">
-  <img src="./assets/divider.svg" width="700"/>
-</div>
-
 ---
 
 ## ◆ Education
@@ -245,25 +181,6 @@ Coursework: Data Structures & Algorithms · OOP · DBMS · Operating Systems
 
 **Govt Boys Hr. Sec. School, Thiruvannamalai**  
 HSC (Maths & Biology) — **86.83%** · 2023
-
-<div align="center">
-  <img src="./assets/divider.svg" width="700"/>
-</div>
-
----
-
-## ◆ Certifications
-
-| Credential | Issuer | When |
-|---|---|---|
-| **Oracle Certified Professional — Java SE 17 Developer** | Oracle | — |
-| **IBM Data Science Professional Certificate** | IBM | Aug 2025 |
-| **Google Data Analytics Professional Certificate** | Google | Sep 2025 |
-| **SAP Certified: SAP Generative AI Developer** | SAP | Jul 2026 |
-
-<div align="center">
-  <img src="./assets/divider.svg" width="700"/>
-</div>
 
 ---
 
@@ -289,7 +206,7 @@ HSC (Maths & Biology) — **86.83%** · 2023
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:1a0728,50:0b1238,100:050814&section=footer&text=Let's%20build%20something%20that%20ships&fontSize=22&fontColor=00D4FF&desc=muthuts2005%40gmail.com%20%C2%B7%20Chennai%2C%20India&descSize=14&descAlignY=78&fontAlignY=55&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:1a0728,50:0b1238,100:050814&section=footer&text=Let's%20build%20something%20that%20ships&fontSize=22&fontColor=00D4FF&desc=muthuts2005@gmail.com%20·%20Chennai,%20India&descSize=14&descAlignY=78&fontAlignY=55&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
