@@ -141,12 +141,6 @@ I build production-grade systems across the stack — **Java Spring Boot**, **Re
 <br/>
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MUTHUKUMARAN005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MUTHUKUMARAN005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </div>
 
